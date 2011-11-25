@@ -1,0 +1,15 @@
+{
+  "name": "jquery.ad-etextlimiter",
+  "version": "1.0.0",
+  "description": "Backports the HTML5 maxlength attribute on input[type=text],input[type=password],textarea and limits textenry in the fields.",
+  "main": "jquery.ad-eTextLimiter.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abhishekdev/jquery.ad-eTextLimiter.git"
+  },
+  "author": "Abhishek Dev",
+  "license": "MIT"
+}
